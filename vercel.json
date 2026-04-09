@@ -1,5 +1,0 @@
-{
-  "buildCommand": "turbo run build --filter=@bigcommerce/catalyst-core",
-  "outputDirectory": "core/.next",
-  "installCommand": "pnpm install"
-}
